@@ -1,0 +1,5 @@
+Work from Wei-Jen Ko, Greg Durrett and Junyi Jessy Li paper. 
+
+Github:
+
+https://github.com/jjessyli/speciteller
